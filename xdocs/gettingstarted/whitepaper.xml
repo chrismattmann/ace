@@ -1,0 +1,39 @@
+<document>
+  <properties>
+    <author email="chris@baron.pagemewhen.com">Chris Mattmann</author>
+    <title>ACE White Paper</title>
+  </properties>
+ 
+  <body>
+    
+    <section name="White Paper on ACE">
+    
+      <p>We published the following paper at the <i>2004 IEEE International Conference on Information Integration and Reuse (IEEE-IRI-2004)</i>, held 
+      November 5th-8th, 2004, in beautiful Las Vegas, Nevada. The citation for the work is:</p>
+      
+      <p>
+        Paul Ramirez and Chris Mattmann. ACE: Improving Search Engines via Automatic Concept Extraction. 
+        In <i>Proceedings of the 2004 IEEE International Conference on Information Integration and Reuse 
+        (IEEE-IRI-2004)</i>, pp. 229-234. November 5th-8th, Las Vegas, Nevada, 2004.
+      </p>
+      
+      <p>The abstract (and paper) are available below:</p>
+      
+      <p>
+      The proliferation of the internet has caused the process of browsing and searching for information to become extremely cumbersome. While many search engines provide reasonable information, they still fall short by overwhelming users with a multitude of often irrelevant results. 
+      This problem has several causes but most notably is the inability for the user to be able to convey the context of her search. Unfortunately, search engines must assume a general context when looking for matching pages, causing users to visit each page in the result list to ultimately 
+      find or not find their desired result. We believe that the necessity of visiting each page could be removed if the concepts, i.e. over-arching ideas of the underlying page, could be revealed to the end user. This would require mining the concepts from each referenced page. It is our 
+      contention that this could be done automatically, rather than relying on the current convention of mandating that the searcher extract these concepts manually through examination of result links. This ability to mine concepts would not only be useful to finding the appropriate result 
+      but in further identifying relevant pages. In this paper, we present the Automatic Concept Extraction (ACE) algorithm, which can aid users performing searches using search engines. We discuss ACE both theoretically, and in the context of a Graphical User Interface and implementation 
+      which we have constructed in java to aid in qualitatively evaluating our algorithm. ACE is found to perform at least as well or better than 4 other related algorithms which we survey in the literature. 
+      </p>
+      
+      <p>
+       Here is a <a href="http://www-scf.usc.edu/~mattmann/pubs/ACE.pdf">link</a> to the white paper. 
+      </p>
+      
+   </section>
+
+
+  </body>
+</document>

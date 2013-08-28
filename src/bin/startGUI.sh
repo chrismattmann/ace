@@ -1,0 +1,1 @@
+java -classpath ../../target/ace-1.0.0-SNAPSHOT.jar:$HOME/.maven/repository/google/jars/googleapi.jar -Dgoogle.clientKey="dSkIu+VQFHJsRCmlzCjjHwCoDzZ4cCPf" -Dstop.file=../main/resources/stopwords2.lst ace.gui.SearchGUI

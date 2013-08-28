@@ -1,0 +1,1 @@
+java -Dgoogle.clientKey=dSkIu+VQFHJsRCmlzCjjHwCoDzZ4cCPf -classpath "..\..\lib\conceptsearch.jar;..\..\lib\googleapi.jar;" project.agents.GoogleSearchEngine --query %1

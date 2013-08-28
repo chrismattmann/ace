@@ -1,0 +1,1 @@
+java -classpath "..\..\lib\conceptsearch.jar;..\..\lib\theseus-3412.jar;..\..\lib\xerces-1.4.3.jar;" project.tf.test.TFGLiveTest --swf ../data/stopwords.lst --url "http://www-scf.usc.edu/~mattmann" > tfTest.out 

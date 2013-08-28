@@ -1,0 +1,36 @@
+<document>
+  <properties>
+    <author email="chris@baron.pagemewhen.com">Chris Mattmann</author>
+    <title>ACE Guide</title>
+  </properties>
+ 
+  <body>
+    <!-- The body of the document contains a number of sections -->
+    <section name="Introduction">
+    
+      <p>We've included some links in this section to related documentation about ACE.</p>
+      
+   </section>
+   
+   <section name="Project Proposal">
+     <p>Here is a link to the original project proposal written by mattmann and ramirez in their Cs548: Information Integration
+     on the Web class, at USC. The course was taught by <a href="http://www.isi.edu/~knoblock">Craig Knoblock</a> and is <i>highly</i>
+     recommended.
+     </p>
+     
+     <ul>
+       <li><a href="proposal/aceProposal.doc">Initial Proposal, Cs548: Information Integration on the Web @ USC</a></li>
+     </ul>
+     
+   </section>
+   
+   <section name="Screenshots of the Concept-based Search GUI">
+    
+      <a href="../images/gui_screenshot.jpg"><img src="../images/gui_screenshot.jpg" width="700" height="400" border="0" /></a>
+   
+   
+   </section>
+
+
+  </body>
+</document>
